@@ -1,4 +1,4 @@
-# PROJETO: PREVISÃO DE PREÇOS DE APARTAMENTOS EM SÃO PAULO
+# [PROJETO: PREVISÃO DE PREÇOS DE APARTAMENTOS EM SÃO PAULO](https://github.com/douglaswatanabe/House-Price-Data-Sao-Paulo/blob/main/House%20Price%20Data%20-%20Sao%20Paulo.ipynb)
 
 Este projeto foi desenvolvido seguindo a metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**, com o objetivo de criar um modelo preditivo para auxiliar na precificação de apartamentos em São Paulo, levando em conta dados históricos e características específicas dos anúncios.
 
